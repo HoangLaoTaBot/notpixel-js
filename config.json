@@ -1,0 +1,19 @@
+{
+    "AUTO_TASK" : true,
+    "AUTO_UPGRADE" : true,
+    "LEVEL_UPGRADE_PAINT_REWARD" : 7,
+    "LEVEL_UPGRADE_RECHARGING_SPEED" : 11,
+    "LEVEL_UPGRADE_ENERGY_LIMIT" : 4,
+
+    "AUTO_WRITE_ERROR": true,
+    "AUTO_SEND_ERROR_TELEGRAM": false,
+    "AUTO_STOP_PROCESS": false,
+    "IS_CHECK_QUERY_ID": false,
+    "USER_AGENT": "",
+    "NUMBER_TRY_REQUEST": 3,
+    "THREAD": 1,
+    "IS_SLEEP": 60,
+    "BOT_TOKEN": "",
+    "BOT_CHANNEL_ID": "",
+    "BOT_NAME_GAME": "Not Pixel"
+}
